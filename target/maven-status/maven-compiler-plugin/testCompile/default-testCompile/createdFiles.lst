@@ -1,0 +1,6 @@
+com\qa\banking\TestCases\RegisterPageTest.class
+com\qa\banking\TestCases\APITest.class
+com\qa\banking\TestCases\LoginPageTest.class
+com\qa\banking\TestCases\LogTest.class
+com\qa\banking\TestCases\ReadExcelData.class
+com\qa\banking\TestCases\HomePageTest.class

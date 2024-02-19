@@ -1,0 +1,12 @@
+com\qa\banking\Pages\HomePage.class
+com\qa\banking\Pages\UpdateContactInfo.class
+com\qa\banking\Base\TestBase.class
+com\qa\banking\Pages\LoginPage.class
+com\qa\banking\Pages\BillPay.class
+com\qa\banking\Pages\AccountsOverview.class
+com\qa\banking\util\TestUtil.class
+com\qa\banking\Pages\RegisterPage.class
+com\qa\banking\util\WebEventListener.class
+com\qa\banking\Pages\OpenNewAccountPage.class
+com\qa\banking\ExtentReportListener\ExtentReporterNG.class
+com\qa\banking\Pages\LoginInfoPage.class

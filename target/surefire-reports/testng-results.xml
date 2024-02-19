@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-19T17:03:21 IST" name="All Test Suite" finished-at="2024-02-19T17:04:02 IST" duration-ms="41569">
+    <groups>
+    </groups>
+    <test started-at="2024-02-19T17:03:21 IST" name="C:/Users/USER/IdeaProjects/MyMavenProject" finished-at="2024-02-19T17:04:02 IST" duration-ms="41569">
+      <class name="com.qa.banking.TestCases.APITest">
+        <test-method signature="testGetRequest()[pri:0, instance:com.qa.banking.TestCases.APITest@5158b42f]" started-at="2024-02-19T17:03:58 IST" name="testGetRequest" finished-at="2024-02-19T17:04:02 IST" duration-ms="4107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRequest -->
+      </class> <!-- com.qa.banking.TestCases.APITest -->
+      <class name="com.qa.banking.TestCases.RegisterPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.banking.TestCases.RegisterPageTest@16293aa2]" started-at="2024-02-19T17:03:48 IST" name="setup" finished-at="2024-02-19T17:03:54 IST" duration-ms="5610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="newuserregistration()[pri:1, instance:com.qa.banking.TestCases.RegisterPageTest@16293aa2]" started-at="2024-02-19T17:03:54 IST" name="newuserregistration" finished-at="2024-02-19T17:03:58 IST" duration-ms="4401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newuserregistration -->
+      </class> <!-- com.qa.banking.TestCases.RegisterPageTest -->
+      <class name="com.qa.banking.TestCases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.banking.TestCases.LoginPageTest@71809907]" started-at="2024-02-19T17:03:21 IST" name="setUp" finished-at="2024-02-19T17:03:29 IST" duration-ms="8568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.qa.banking.TestCases.LoginPageTest@71809907]" started-at="2024-02-19T17:03:29 IST" name="loginPageTitleTest" finished-at="2024-02-19T17:03:30 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.banking.TestCases.LoginPageTest@71809907]" started-at="2024-02-19T17:03:30 IST" name="tearDown" finished-at="2024-02-19T17:03:30 IST" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.banking.TestCases.LoginPageTest@71809907]" started-at="2024-02-19T17:03:30 IST" name="setUp" finished-at="2024-02-19T17:03:32 IST" duration-ms="2528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="bankingPageLogoTest()[pri:2, instance:com.qa.banking.TestCases.LoginPageTest@71809907]" started-at="2024-02-19T17:03:32 IST" name="bankingPageLogoTest" finished-at="2024-02-19T17:03:36 IST" duration-ms="3358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bankingPageLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.banking.TestCases.LoginPageTest@71809907]" started-at="2024-02-19T17:03:36 IST" name="tearDown" finished-at="2024-02-19T17:03:36 IST" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.banking.TestCases.LoginPageTest@71809907]" started-at="2024-02-19T17:03:36 IST" name="setUp" finished-at="2024-02-19T17:03:41 IST" duration-ms="4246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:3, instance:com.qa.banking.TestCases.LoginPageTest@71809907]" started-at="2024-02-19T17:03:41 IST" name="loginTest" data-provider="getTestData" finished-at="2024-02-19T17:03:42 IST" duration-ms="981" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amar@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.banking.TestCases.LoginPageTest@71809907]" started-at="2024-02-19T17:03:42 IST" name="tearDown" finished-at="2024-02-19T17:03:42 IST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.banking.TestCases.LoginPageTest@71809907]" started-at="2024-02-19T17:03:42 IST" name="setUp" finished-at="2024-02-19T17:03:47 IST" duration-ms="5184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:3, instance:com.qa.banking.TestCases.LoginPageTest@71809907]" started-at="2024-02-19T17:03:47 IST" name="loginTest" data-provider="getTestData" finished-at="2024-02-19T17:03:48 IST" duration-ms="1087" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test@156]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.banking.TestCases.LoginPageTest@71809907]" started-at="2024-02-19T17:03:48 IST" name="tearDown" finished-at="2024-02-19T17:03:48 IST" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.banking.TestCases.LoginPageTest -->
+    </test> <!-- C:/Users/USER/IdeaProjects/MyMavenProject -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

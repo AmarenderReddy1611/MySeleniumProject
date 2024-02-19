@@ -1,0 +1,279 @@
+[DEBUG] 2024-02-19 17:03:22,524 InternalLoggerFactory.useLog4J2LoggerFactory() - Using Log4J2 as the default logging framework
+[DEBUG] 2024-02-19 17:03:22,539 ResourceLeakDetector.<clinit>() - -Dio.netty.leakDetection.level: simple
+[DEBUG] 2024-02-19 17:03:22,540 ResourceLeakDetector.<clinit>() - -Dio.netty.leakDetection.targetRecords: 4
+[DEBUG] 2024-02-19 17:03:22,547 ResourceLeakDetectorFactory.newResourceLeakDetector() - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@f9879ac
+[DEBUG] 2024-02-19 17:03:22,572 PlatformDependent0.explicitNoUnsafeCause0() - -Dio.netty.noUnsafe: false
+[DEBUG] 2024-02-19 17:03:22,573 PlatformDependent0.javaVersion0() - Java version: 17
+[DEBUG] 2024-02-19 17:03:22,575 PlatformDependent0.<clinit>() - sun.misc.Unsafe.theUnsafe: available
+[DEBUG] 2024-02-19 17:03:22,580 PlatformDependent0.<clinit>() - sun.misc.Unsafe.copyMemory: available
+[DEBUG] 2024-02-19 17:03:22,581 PlatformDependent0.<clinit>() - sun.misc.Unsafe.storeFence: available
+[DEBUG] 2024-02-19 17:03:22,583 PlatformDependent0.<clinit>() - java.nio.Buffer.address: available
+[DEBUG] 2024-02-19 17:03:22,585 PlatformDependent0.<clinit>() - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+[DEBUG] 2024-02-19 17:03:22,586 PlatformDependent0.<clinit>() - java.nio.Bits.unaligned: available, true
+[DEBUG] 2024-02-19 17:03:22,588 PlatformDependent0.<clinit>() - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @6d2a209c
+[DEBUG] 2024-02-19 17:03:22,590 PlatformDependent0.<clinit>() - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+[DEBUG] 2024-02-19 17:03:22,590 PlatformDependent.unsafeUnavailabilityCause0() - sun.misc.Unsafe: available
+[DEBUG] 2024-02-19 17:03:22,591 PlatformDependent.estimateMaxDirectMemory() - maxDirectMemory: 2126512128 bytes (maybe)
+[DEBUG] 2024-02-19 17:03:22,592 PlatformDependent.tmpdir0() - -Dio.netty.tmpdir: C:\Windows\TEMP (java.io.tmpdir)
+[DEBUG] 2024-02-19 17:03:22,592 PlatformDependent.bitMode0() - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[DEBUG] 2024-02-19 17:03:22,593 PlatformDependent.isWindows0() - Platform: Windows
+[DEBUG] 2024-02-19 17:03:22,594 PlatformDependent.<clinit>() - -Dio.netty.maxDirectMemory: -1 bytes
+[DEBUG] 2024-02-19 17:03:22,595 PlatformDependent.<clinit>() - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+[DEBUG] 2024-02-19 17:03:22,597 CleanerJava9.<clinit>() - java.nio.ByteBuffer.cleaner(): available
+[DEBUG] 2024-02-19 17:03:22,597 PlatformDependent.<clinit>() - -Dio.netty.noPreferDirect: false
+[DEBUG] 2024-02-19 17:03:22,611 PlatformDependent.<clinit>() - org.jctools-core.MpscChunkedArrayQueue: available
+[DEBUG] 2024-02-19 17:03:22,658 InternalThreadLocalMap.<clinit>() - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+[DEBUG] 2024-02-19 17:03:22,659 InternalThreadLocalMap.<clinit>() - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+[DEBUG] 2024-02-19 17:03:22,833 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,835 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,836 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,838 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,839 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,840 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,843 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,844 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,846 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,847 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,850 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,852 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,854 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,856 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,859 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,864 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,868 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,870 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,872 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,873 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,874 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,876 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,878 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,879 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,880 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,881 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,884 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,885 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,887 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,888 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,889 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,890 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,891 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,892 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,894 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,895 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,897 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,898 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,900 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,902 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,903 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,904 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,905 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,906 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,907 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,909 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,911 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,912 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,914 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,915 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,918 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,919 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,920 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,922 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,923 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,924 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,925 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,925 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,926 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,928 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,929 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,931 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,933 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,935 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,936 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,938 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,939 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,940 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,941 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,942 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,944 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,945 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,946 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,948 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,950 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,951 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,951 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,952 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,953 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,954 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,955 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,956 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,956 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,957 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,958 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,959 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,960 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,961 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,962 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,963 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,964 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,966 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,967 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,968 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,969 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,969 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:22,970 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:03:23,027 JdkSslContext.<clinit>() - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+[DEBUG] 2024-02-19 17:03:23,027 JdkSslContext.<clinit>() - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+[DEBUG] 2024-02-19 17:03:23,064 MultithreadEventLoopGroup.<clinit>() - -Dio.netty.eventLoopThreads: 8
+[DEBUG] 2024-02-19 17:03:23,077 NioEventLoop.<clinit>() - -Dio.netty.noKeySetOptimization: false
+[DEBUG] 2024-02-19 17:03:23,078 NioEventLoop.<clinit>() - -Dio.netty.selectorAutoRebuildThreshold: 512
+[DEBUG] 2024-02-19 17:03:23,145 PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.numHeapArenas: 8
+[DEBUG] 2024-02-19 17:03:23,146 PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.numDirectArenas: 8
+[DEBUG] 2024-02-19 17:03:23,146 PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.pageSize: 8192
+[DEBUG] 2024-02-19 17:03:23,147 PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.maxOrder: 9
+[DEBUG] 2024-02-19 17:03:23,149 PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.chunkSize: 4194304
+[DEBUG] 2024-02-19 17:03:23,150 PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.smallCacheSize: 256
+[DEBUG] 2024-02-19 17:03:23,150 PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.normalCacheSize: 64
+[DEBUG] 2024-02-19 17:03:23,151 PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG] 2024-02-19 17:03:23,151 PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG] 2024-02-19 17:03:23,151 PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+[DEBUG] 2024-02-19 17:03:23,151 PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.useCacheForAllThreads: false
+[DEBUG] 2024-02-19 17:03:23,152 PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+[DEBUG] 2024-02-19 17:03:23,175 ByteBufUtil.<clinit>() - -Dio.netty.allocator.type: pooled
+[DEBUG] 2024-02-19 17:03:23,176 ByteBufUtil.<clinit>() - -Dio.netty.threadLocalDirectBufferSize: 0
+[DEBUG] 2024-02-19 17:03:23,176 ByteBufUtil.<clinit>() - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[DEBUG] 2024-02-19 17:03:23,355 HttpURLConnection.log() - sun.net.www.MessageHeader@229430ba5 pairs: {GET /status HTTP/1.1: null}{User-Agent: Java/17.0.9}{Host: localhost:13257}{Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2}{Connection: keep-alive}
+[DEBUG] 2024-02-19 17:03:23,359 HttpURLConnection.log() - sun.net.www.MessageHeader@32af18884 pairs: {null: HTTP/1.1 200 OK}{Content-Length: 250}{Content-Type: application/json; charset=utf-8}{cache-control: no-cache}
+[DEBUG] 2024-02-19 17:03:23,635 DefaultChannelId.<clinit>() - -Dio.netty.processId: 11252 (auto-detected)
+[DEBUG] 2024-02-19 17:03:23,638 NetUtil.<clinit>() - -Djava.net.preferIPv4Stack: false
+[DEBUG] 2024-02-19 17:03:23,638 NetUtil.<clinit>() - -Djava.net.preferIPv6Addresses: false
+[DEBUG] 2024-02-19 17:03:23,652 NetUtilInitializations.determineLoopback() - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+[DEBUG] 2024-02-19 17:03:23,654 NetUtil.run() - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+[DEBUG] 2024-02-19 17:03:23,690 DefaultChannelId.<clinit>() - -Dio.netty.machineId: 90:61:ae:ff:fe:79:6a:a8 (auto-detected)
+[DEBUG] 2024-02-19 17:03:23,766 AbstractByteBuf.<clinit>() - -Dio.netty.buffer.checkAccessible: true
+[DEBUG] 2024-02-19 17:03:23,767 AbstractByteBuf.<clinit>() - -Dio.netty.buffer.checkBounds: true
+[DEBUG] 2024-02-19 17:03:23,767 ResourceLeakDetectorFactory.newResourceLeakDetector() - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3ae12725
+[DEBUG] 2024-02-19 17:03:23,794 Recycler.<clinit>() - -Dio.netty.recycler.maxCapacityPerThread: 4096
+[DEBUG] 2024-02-19 17:03:23,795 Recycler.<clinit>() - -Dio.netty.recycler.ratio: 8
+[DEBUG] 2024-02-19 17:03:23,795 Recycler.<clinit>() - -Dio.netty.recycler.chunkSize: 32
+[DEBUG] 2024-02-19 17:03:23,795 Recycler.<clinit>() - -Dio.netty.recycler.blocking: false
+[DEBUG] 2024-02-19 17:03:25,589 Brotli.<clinit>() - brotli4j not in the classpath; Brotli support will be unavailable.
+[DEBUG] 2024-02-19 17:03:25,773 ThreadLocalRandom.newSeed() - -Dio.netty.initialSeedUniquifier: 0x63fd3a98aa48aef1
+[DEBUG] 2024-02-19 17:03:30,124 HttpURLConnection.log() - sun.net.www.MessageHeader@ba32c105 pairs: {GET /shutdown HTTP/1.1: null}{User-Agent: Java/17.0.9}{Host: localhost:13257}{Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2}{Connection: keep-alive}
+[DEBUG] 2024-02-19 17:03:30,191 HttpURLConnection.log() - sun.net.www.MessageHeader@41117df33 pairs: {null: HTTP/1.1 200 OK}{Content-Length: 40}{Content-Type: application/json; charset=utf-8}
+[DEBUG] 2024-02-19 17:03:30,366 HttpURLConnection.log() - sun.net.www.MessageHeader@487fe5565 pairs: {GET /status HTTP/1.1: null}{User-Agent: Java/17.0.9}{Host: localhost:22784}{Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2}{Connection: keep-alive}
+[DEBUG] 2024-02-19 17:03:30,368 HttpURLConnection.log() - sun.net.www.MessageHeader@63f4b29e4 pairs: {null: HTTP/1.1 200 OK}{Content-Length: 250}{Content-Type: application/json; charset=utf-8}{cache-control: no-cache}
+[DEBUG] 2024-02-19 17:03:36,214 HttpURLConnection.log() - sun.net.www.MessageHeader@71a5d15c5 pairs: {GET /shutdown HTTP/1.1: null}{User-Agent: Java/17.0.9}{Host: localhost:22784}{Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2}{Connection: keep-alive}
+[DEBUG] 2024-02-19 17:03:36,264 HttpURLConnection.log() - sun.net.www.MessageHeader@3b91d47e3 pairs: {null: HTTP/1.1 200 OK}{Content-Length: 40}{Content-Type: application/json; charset=utf-8}
+[DEBUG] 2024-02-19 17:03:37,119 HttpURLConnection.log() - sun.net.www.MessageHeader@c73d30f5 pairs: {GET /status HTTP/1.1: null}{User-Agent: Java/17.0.9}{Host: localhost:18552}{Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2}{Connection: keep-alive}
+[DEBUG] 2024-02-19 17:03:37,121 HttpURLConnection.log() - sun.net.www.MessageHeader@4ad5e05d4 pairs: {null: HTTP/1.1 200 OK}{Content-Length: 250}{Content-Type: application/json; charset=utf-8}{cache-control: no-cache}
+[DEBUG] 2024-02-19 17:03:42,261 HttpURLConnection.log() - sun.net.www.MessageHeader@1525f76a5 pairs: {GET /shutdown HTTP/1.1: null}{User-Agent: Java/17.0.9}{Host: localhost:18552}{Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2}{Connection: keep-alive}
+[DEBUG] 2024-02-19 17:03:42,317 HttpURLConnection.log() - sun.net.www.MessageHeader@20a2f3943 pairs: {null: HTTP/1.1 200 OK}{Content-Length: 40}{Content-Type: application/json; charset=utf-8}
+[DEBUG] 2024-02-19 17:03:42,421 HttpURLConnection.log() - sun.net.www.MessageHeader@325bb7245 pairs: {GET /status HTTP/1.1: null}{User-Agent: Java/17.0.9}{Host: localhost:25871}{Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2}{Connection: keep-alive}
+[DEBUG] 2024-02-19 17:03:42,422 HttpURLConnection.log() - sun.net.www.MessageHeader@57696e3a4 pairs: {null: HTTP/1.1 200 OK}{Content-Length: 250}{Content-Type: application/json; charset=utf-8}{cache-control: no-cache}
+[DEBUG] 2024-02-19 17:03:48,654 HttpURLConnection.log() - sun.net.www.MessageHeader@6d4d4d1a5 pairs: {GET /shutdown HTTP/1.1: null}{User-Agent: Java/17.0.9}{Host: localhost:25871}{Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2}{Connection: keep-alive}
+[DEBUG] 2024-02-19 17:03:48,714 HttpURLConnection.log() - sun.net.www.MessageHeader@5a442d743 pairs: {null: HTTP/1.1 200 OK}{Content-Length: 40}{Content-Type: application/json; charset=utf-8}
+[DEBUG] 2024-02-19 17:03:48,855 HttpURLConnection.log() - sun.net.www.MessageHeader@3549538f5 pairs: {GET /status HTTP/1.1: null}{User-Agent: Java/17.0.9}{Host: localhost:32041}{Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2}{Connection: keep-alive}
+[DEBUG] 2024-02-19 17:03:48,856 HttpURLConnection.log() - sun.net.www.MessageHeader@29cde3a24 pairs: {null: HTTP/1.1 200 OK}{Content-Length: 250}{Content-Type: application/json; charset=utf-8}{cache-control: no-cache}
+[DEBUG] 2024-02-19 17:04:00,574 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,575 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,575 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,576 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,576 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,576 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,577 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,577 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,578 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,578 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,578 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,579 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,579 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,579 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,580 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,581 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,581 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,581 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,582 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,582 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,583 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,584 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,584 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,585 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,585 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,585 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,586 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,586 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,586 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,587 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,587 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,588 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,588 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,588 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,590 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,591 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,591 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,591 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,592 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,592 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,593 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,593 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,593 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,594 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,594 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,594 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,595 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,595 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,596 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,596 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,597 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,597 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,598 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,598 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,598 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,599 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,599 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,599 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,600 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,600 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,600 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,601 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,601 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,603 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,603 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,603 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,604 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,604 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,606 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,607 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,607 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,608 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,608 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,609 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,609 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,609 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,610 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,610 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,610 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,610 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,611 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,612 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,612 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,613 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,613 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,614 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,614 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,615 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,615 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,615 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,616 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,616 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,616 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,617 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,617 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,618 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:00,618 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:01,269 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:01,270 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:01,271 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:01,273 security.log() - X509Certificate: Alg:{0}, Serial:{1}, Subject:{2}, Issuer:{3}, Key type:{4}, Length:{5,number,#}, Cert Id:{6,number,#}, Valid from:{7}, Valid until:{8}
+[DEBUG] 2024-02-19 17:04:01,367 security.log() - ValidationChain: {0,number,#}, {1}
+[DEBUG] 2024-02-19 17:04:01,390 security.log() -  TLSHandshake: {0}:{1,number,#}, {2}, {3}, {4,number,#}
