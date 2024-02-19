@@ -28,6 +28,7 @@ public class TestBase {
         try {
 
             prop = new Properties();
+            //this is comment
             FileInputStream ip = new FileInputStream("C:\\Users\\USER\\IdeaProjects\\MyMavenProject\\src\\main\\java\\com\\qa\\banking\\Config\\config.properties");
             prop.load(ip);
         } catch (FileNotFoundException e) {
